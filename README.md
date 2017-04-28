@@ -1,6 +1,4 @@
-hsv widget (Qt)
-===================================  
-    developer : Ken (ikenchina@gmail.com)
+# HSV widget (Qt)
 ==============================
     hsv(hue-saturation-value) color model
 
