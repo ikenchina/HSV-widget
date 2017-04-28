@@ -1,6 +1,7 @@
 # HSV widget (Qt)
-==============================
-    hsv(hue-saturation-value) color model
+---
+
+hsv(hue-saturation-value) color model
 
 ![demo](https://github.com/ikenchina/HSV-widget/blob/master/aaa.png)
    
